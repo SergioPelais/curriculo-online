@@ -1,1 +1,1 @@
-# bs-cvonline
+Este arquivo contém meu currículo completo, incluindo minhas informações profissionais, formação, experiências, hard skills, soft skills e certificações. Ele foi organizado para apresentar de forma clara minhas habilidades técnicas, projetos e qualificações, servindo como referência para recrutadores e para quem quiser conhecer melhor meu perfil profissional.
